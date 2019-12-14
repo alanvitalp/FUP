@@ -1,6 +1,6 @@
 # **Fundamentos de Programação**
 
-##### *Arquivos da disciplina de FUP*
+##### *Arquivos da disciplina de Fundamentos de programação*
 
 # **Review**
 
